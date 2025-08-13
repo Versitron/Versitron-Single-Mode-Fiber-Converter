@@ -27,19 +27,20 @@ This **gigabit fiber media converter** is ideal for:
 
 ---
 
-## Technical Specifications
+## VERSITRON Single Mode Fiber Converter – Technical Specifications
 
-| Specification | Description |
-|---------------|-------------|
-| Model | VERSITRON Single Mode Fiber Converter |
-| Fiber Type | Singlemode to Multimode |
-| Connectors | ST to SC fiber converter |
-| Wavelength | 1300nm |
-| Distance Support | Up to 20km |
-| Speed | 10/100/1000Base-TX to 100/1000Base-FX |
-| Duplex Mode | Full-duplex / Half-duplex |
-| Power | External 5VDC |
-| Operating Temp | -10°C to 60°C |
+| Specification       | Description |
+|-------------------|-------------|
+| Model             | VERSITRON Single Mode Fiber Converter |
+| Fiber Type        | Singlemode to Multimode |
+| Connectors        | ST to SC fiber converter |
+| Wavelength        | 1300nm |
+| Distance Support  | Up to 20 km |
+| Speed             | 10/100/1000Base-TX to 100/1000Base-FX |
+| Duplex Mode       | Full-duplex / Half-duplex |
+| Power             | External 5VDC |
+| Operating Temp    | -10°C to 60°C |
+
 
 ---
 
